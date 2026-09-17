@@ -49,4 +49,4 @@ void loop() {
 ## Result
 The LED was successfully interfaced with the microcontroller on the Wokwi platform and made to blink at a frequency of 1 Hz (ON for 0.5 seconds and OFF for 0.5 seconds), verifying the working of digital output control using `digitalWrite()` and timing control using `delay()`.
 
-![LED Blink Simulation]
+![LED Blink Simulation](https://github.com/DonaldPaul06/IoT-Elective-Lab-Experiments/blob/main/Images/Screenshot%202026-09-17%20103440.png)

@@ -67,6 +67,6 @@ void loop() {
 
 **Result:** The 16×2 LCD displays "JECC IoT Lab" on Line 1 and a live incrementing counter on Line 2, confirming successful I2C communication between ESP32 and the LCD module.
 
-![LED Blink Simulation](https://github.com/DonaldPaul06/IoT-Elective-Lab-Experiments/blob/main/Images/Experiment%203.png)
+![LED Blink Simulation](https://github.com/DonaldPaul06/IoT-Elective-Lab-Experiments/blob/main/Images/Experiment%203.jpg)
 ---
 

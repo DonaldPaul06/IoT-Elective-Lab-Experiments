@@ -90,4 +90,4 @@ void loop() {
 ## Result
 The push button was successfully interfaced with the microcontroller on the Wokwi platform, and the LED's ON/OFF state was controlled based on button presses, verifying digital input reading using `digitalRead()` and its use in controlling a digital output.
 
-![LED Blink Simulation](https://github.com/DonaldPaul06/IoT-Elective-Lab-Experiments/blob/main/Images/Experiment%202.png)
+![Controlling an LED using a Push Button on Wokwi](https://github.com/DonaldPaul06/IoT-Elective-Lab-Experiments/blob/main/Images/Experiment%202.png)

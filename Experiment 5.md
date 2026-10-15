@@ -68,5 +68,5 @@ finally:
 
 **Result:** The LED turns ON when the push-button is pressed and turns OFF when released, confirming successful GPIO digital input reading using internal pull-up resistor and output control on Raspberry Pi using Python.
 
-![dfh](https://github.com/DonaldPaul06/IoT-Elective-Lab-Experiments/blob/main/Images/Experiment%205.jpg)
+![Raspberry Pi Switch Controlled LED](https://github.com/DonaldPaul06/IoT-Elective-Lab-Experiments/blob/main/Images/Experiment%205.jpg)
 

@@ -57,5 +57,6 @@ finally:
 
 **Result:** The LED blinks continuously at 1 Hz (500 ms ON, 500 ms OFF), confirming successful GPIO output control using Python on the Raspberry Pi.
 
+![LED Blink Simulation](https://github.com/DonaldPaul06/IoT-Elective-Lab-Experiments/blob/main/Images/Experiment%204.jpg)
 ---
 
